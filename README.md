@@ -19,7 +19,7 @@
 ## Microsoft
 
 - [MLSA](https://studentambassadors.microsoft.com/): Microsoft Student Ambassadors
-
+- [MVP](https://mvp.microsoft.com/en-us): Microsoft Most Valuable Professional
 
 ## Meta
 
